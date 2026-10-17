@@ -1,0 +1,35 @@
+# Säule: fog, moss and candle-ochre over a dark forest
+mode = "dark"
+
+accent = "#c9a95c"
+selection = "#303b39"
+muted = "#626f6a"
+
+hyprland_active_border = "rgba(84a06bee) rgba(c9a95cee) 45deg"
+hyprland_inactive_border = "rgba(3f4b4baa)"
+
+background = "#181f1f"
+dark_background = "#141918"
+darker_background = "#0e1312"
+lighter_background = "#222a2a"
+
+foreground = "#abb4a7"
+dark_foreground = "#3f4b4b"
+light_foreground = "#839083"
+bright_foreground = "#cccfbd"
+
+red = "#bd7c68"
+yellow = "#c9a95c"
+orange = "#b98552"
+green = "#84a06b"
+cyan = "#749a8b"
+blue = "#7a95a0"
+magenta = "#9e8ea0"
+brown = "#5f4e35"
+
+bright_red = "#cd9482"
+bright_yellow = "#e0c886"
+bright_green = "#a5bc83"
+bright_cyan = "#96b7a8"
+bright_blue = "#9ab2b8"
+bright_magenta = "#b6a6b5"

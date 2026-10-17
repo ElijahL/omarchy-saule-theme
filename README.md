@@ -33,16 +33,3 @@ omarchy-theme-install https://github.com/ElijahL/omarchy-saule-theme
 | blue       | `#7a95a0` | bright blue    | `#9ab2b8` |
 | cyan       | `#749a8b` | bright cyan    | `#96b7a8` |
 | magenta    | `#9e8ea0` | bright magenta | `#b6a6b5` |
-
-Icons: Yaru-sage.
-
-## Wallpapers
-
-- `1-fog-forest.jpg` comes from the wallpapers that ship with Omarchy.
-- `2-ruhe-nach-dem-sturm.jpg` is Erik Bodom's *Ruhe nach dem Sturm* (1871), which is in the public domain.
-
-The wallpapers stay under their original authors' terms. If you own one of these images and want it credited or removed, please open an issue.
-
-## License
-
-The theme configuration is MIT licensed. See [LICENSE](LICENSE).

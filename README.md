@@ -2,6 +2,8 @@
 
 Fog, moss and candle-ochre over a dark forest. A dark theme for [Omarchy](https://omarchy.org).
 
+Inspired by "Rundtgåing av den transcendentale egenhetens støtte" ("Rundgang um die transzendentale Säule der Singularität") by Burzum
+
 ![Säule preview](preview.png)
 
 ## Install
@@ -37,7 +39,6 @@ Icons: Yaru-sage.
 ## Wallpapers
 
 - `1-fog-forest.jpg` comes from the wallpapers that ship with Omarchy.
-- `2-house-in-the-fog.jpg` was found on Wallhaven. The original author is unknown.
 - `2-ruhe-nach-dem-sturm.jpg` is Erik Bodom's *Ruhe nach dem Sturm* (1871), which is in the public domain.
 
 The wallpapers stay under their original authors' terms. If you own one of these images and want it credited or removed, please open an issue.

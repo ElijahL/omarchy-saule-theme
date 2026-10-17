@@ -6,6 +6,8 @@ Inspired by "Rundtgåing av den transcendentale egenhetens støtte" ("Rundgang u
 
 ![Säule preview](preview.png)
 
+![Säule preview 2](preview2.png)
+
 ## Install
 
 Open the Omarchy menu (`Super + Alt + Space`), go to **Install → Style → Theme**, and paste:
